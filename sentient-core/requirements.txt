@@ -1,4 +1,5 @@
 fastapi
+uvicorn
 uvicorn[standard]
 pydantic
 python-dotenv
@@ -14,3 +15,6 @@ exa-py
 duckduckgo-search
 numpy
 faiss-cpu
+streamlit
+fpdf
+aiohttp
